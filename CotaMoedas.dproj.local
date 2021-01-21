@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/01/14 13:43:37.000.480,=C:\Users\DevApp\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/01/14 13:44:31.000.903,D:\Sergio\Projetos\cotacao-moedas\UPrincipal.pas=C:\Users\DevApp\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/01/14 13:44:31.000.903,D:\Sergio\Projetos\cotacao-moedas\UPrincipal.fmx=C:\Users\DevApp\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2021/01/14 13:45:48.000.776,D:\Sergio\Projetos\cotacao-moedas\ContaMoedas.dproj=C:\Users\DevApp\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/01/18 13:18:41.680,D:\Sergio\Projetos\cotacao-moedas\CotaMoedas.dproj=D:\Sergio\Projetos\cotacao-moedas\ContaMoedas.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
